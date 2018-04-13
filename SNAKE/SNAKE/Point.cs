@@ -11,6 +11,11 @@ namespace SNAKE
         public int x;
         public int y;
         public char sym;
+
+        public Point()
+        {
+            Console.WriteLine("New Point");
+        }
         
         public void Draw()
         {
