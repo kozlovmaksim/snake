@@ -1,0 +1,7 @@
+D:\NET\SNAKE\SNAKE\SNAKE\bin\Debug\SNAKE.exe.config
+D:\NET\SNAKE\SNAKE\SNAKE\bin\Debug\SNAKE.exe
+D:\NET\SNAKE\SNAKE\SNAKE\bin\Debug\SNAKE.pdb
+D:\NET\SNAKE\SNAKE\SNAKE\obj\Debug\SNAKE.csprojResolveAssemblyReference.cache
+D:\NET\SNAKE\SNAKE\SNAKE\obj\Debug\SNAKE.csproj.CoreCompileInputs.cache
+D:\NET\SNAKE\SNAKE\SNAKE\obj\Debug\SNAKE.exe
+D:\NET\SNAKE\SNAKE\SNAKE\obj\Debug\SNAKE.pdb
